@@ -14,7 +14,7 @@
 
 
 - **🖥️ Formação Técnica:** Técnico de Informatica.  
-- **📚 Formação Graduanda:** Graduando em Análise e Desenvolvimento de Sistemas. (2/5)  
+- **📚 Formação Graduanda:** Graduando em Análise e Desenvolvimento de Sistemas. (3/5)  
 - **🚀 Objetivos:** Desenvolver continuamente minhas habilidades técnicas e contribuir ativamente com a comunidade, promovendo a troca de conhecimento e o crescimento coletivo.
 
 ---
